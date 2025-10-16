@@ -97,7 +97,7 @@ const Footer = () => {
         
         >
           SAE
-        </a>. Made with love by <span   className="text-inherit" 
+        </a>. Made with ❤️ by <span   className="text-inherit" 
           style={{ color: "red", fontWeight: "lighter" }}>SAE-WEBD</span> Team.
       </p>
     </footer>

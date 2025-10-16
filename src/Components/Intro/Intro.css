@@ -124,7 +124,7 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(to left, #12121252, #3fcaed90);
+  background: linear-gradient(to left, #504e4e52, #c81a1a90);
   opacity: 0;
   transition: opacity 0.6s ease;
   border-radius: inherit;

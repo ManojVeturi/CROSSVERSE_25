@@ -79,7 +79,7 @@ function Intro() {
         <div className="content-container">
           <h1 className="main-title">Crossverse-25</h1>
           <h2 className="sub-title">
-            Organized by <span style={{ color: 'red' }}>SAE</span>
+            Organized  by - <span style={{ color: 'red' }}>SAE</span>
           </h2>
 
 
